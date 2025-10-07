@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 main
+=======
+testing
+>>>>>>> testing
 
